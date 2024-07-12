@@ -3,17 +3,17 @@ CLASIFICACIÓN BINARIA DE PUNTOS DE AGUA, ENTRE  FUNCIONALES Y NO FUNCIONALES
 
 #### Proyecto: Clasificación Binaria de Puntos de Agua en Tanzania
 
-Introducción
+#### Introducción
 
 Este proyecto forma parte de un reto grupal desarrollado en el marco del programa de la Escuela de Talento Digital de la Fundación NTT DATA. El objetivo es predecir qué bombas de agua en Tanzania son funcionales y cuáles no, utilizando un dataset obtenido del Ministerio de Agua de Tanzania a través de Driven Data.
 
-Descripción del Proyecto
+#### Descripción del Proyecto
 
 El dataset contiene información sobre varios aspectos de los puntos de agua, como la altitud, el financiador, la organización que instaló el pozo, coordenadas GPS, calidad del agua, entre otros. Este proyecto se compone de varios ejercicios que abarcan desde el análisis exploratorio de datos hasta la implementación de modelos de machine learning para la clasificación de los puntos de agua.
 
-Contenido del Proyecto
+#### Contenido del Proyecto
 
-Ejercicio 1: Análisis Exploratorio de Datos
+Análisis Exploratorio de Datos
 
 Cargamos el archivo reto_agua.csv que contiene los datos.
 Mostramos los primeros 5 registros del dataset.
